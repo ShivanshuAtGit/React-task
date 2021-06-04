@@ -1,0 +1,17 @@
+.Footer{
+    position: fixed;
+    height: 10vh;
+    width: 100vw;
+    bottom: 0rem;
+    left: 0rem;
+    right: 0rem;
+    background-color: rgb(32, 32, 32);
+    color: white;
+    z-index: 10;
+}
+
+.Footer h1{
+    font-size: 3rem;
+    display: inline-block;
+    margin: 1rem 2rem;
+}

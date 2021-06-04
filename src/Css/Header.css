@@ -1,0 +1,15 @@
+.Header{
+    position: fixed;
+    height: 10vh;
+    width: 100vw;
+    inset: 0rem;
+    background-color: rgb(32, 32, 32);
+    color: white;
+    z-index: 10;
+}
+
+.Header h1{
+    font-size: 3rem;
+    display: inline-block;
+    margin: 1rem 2rem;
+}
